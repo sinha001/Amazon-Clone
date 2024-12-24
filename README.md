@@ -54,6 +54,23 @@ Before running or modifying this project, ensure you have:
 
 ---
 
+## 🖼 Project Screenshots
+
+Here are some visuals of the Amazon Clone project:
+
+### Desktop View
+![Desktop View](./screenshots/desktop-view.png)
+
+### Product Section
+![Product Section](./screenshots/product-section.png)
+
+### Footer Section
+![Footer Section](./screenshots/footer-section.png)
+
+> **Note**: Add your screenshots in a folder named `screenshots` inside the repository and update the file paths accordingly.
+
+---
+
 ## 📚 Additional Resources
 Expand your CSS and web development knowledge with these resources:
 
